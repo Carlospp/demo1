@@ -1,0 +1,7 @@
+{
+  "name": "demo1",
+  "short_name": "demo1",
+  "description": "demo1 para la presentacion everis para la presentacion everis",
+  "start_url": "/",
+  "display": "standalone"
+}
